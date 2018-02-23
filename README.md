@@ -7,7 +7,7 @@ This version has a vagrant environment for development.
 Do the following commands:
 
 ```
-git clone https://github.com/DDecoene/bots.git
+git clone https://github.com/igwtech/bots.git
 cd bots
 vagrant up
 vagrant ssh
